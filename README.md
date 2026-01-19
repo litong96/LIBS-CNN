@@ -12,3 +12,4 @@ The 1d-cnn was used with a group 5-fold cross-validation as the data partitionin
 ### 2. t-SNE
 
 tSNE is used for visualizing the model training process.
+- Code: `tsne.py`
