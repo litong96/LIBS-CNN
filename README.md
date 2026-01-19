@@ -6,11 +6,13 @@ The following models are imoplemented in this repository:
 
 ### 1. preprocessing
 Preprocessing the raw LIBS data, including baseline correction:
--Code:`baseline.py`
+- Code:`baseline.py`
+
 noise filter:
--Code:`noise_filter.py`
+- Code:`noise_filter.py`
+
 and normalization:
--Code:`Normalization.py`
+- Code:`Normalization.py`
 
 ### 2. interpretable 1D-CNN
 The 1d-cnn was used with a group 5-fold cross-validation as the data partitioning strategy, and was combined with SHAP for interpretability analysis
